@@ -1,0 +1,8 @@
+La factura es:
+ Direccion cliente: xd
+Nombre del cliente: Logantaurus
+Numero de pedidos :1
+La orden realizada es 
+corral con adición de lechuga con adición de lechuga con adición de queso americano sin queso mozzarella y El precio  es :18500
+ con combo corral y El precio de 22050
+Precio: 48254

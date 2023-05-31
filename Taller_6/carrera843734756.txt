@@ -1,0 +1,8 @@
+La factura es:
+ Direccion cliente: carrera8
+Nombre del cliente: miguel
+Numero de pedidos :1
+La orden realizada es 
+WagyuA5conmarmoleoyoroconbatidodemildolaresedicionmrbeast y El precio es 1500 con 50 calorias
+ con Coca Cola y El precio es 100 con 500 calorias
+Precio: 1904 con un total de calorias de 550

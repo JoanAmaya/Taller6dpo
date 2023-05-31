@@ -1,0 +1,7 @@
+La factura es:
+ Direccion cliente: asdasd
+Nombre del cliente: asdasd
+Numero de pedidos :1
+La orden realizada es 
+corral y El precio  es :14000 con calorias de 600
+Precio: 16660 con un total de calorias de 600
